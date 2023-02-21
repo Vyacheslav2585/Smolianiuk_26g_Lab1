@@ -1,0 +1,61 @@
+body {
+	margin: 0 auto;
+
+}
+
+header {
+	height: 150px;
+	width: 100%;
+	background: gray;
+}
+
+
+
+main {
+	padding: 20px 0;
+	width: 1170px;
+	background: palevioletred;
+	margin: 0 auto;
+
+}
+
+.firstSect {
+	height: 300px;
+	background-color: greenyellow;
+	margin-top: 30px;
+}
+
+.secSect {
+	display: flex;
+	justify-content: center;
+	gap: 20px;
+	margin: 100px 20px;
+}
+
+div:first-of-type {
+	width: 350px;
+	height: 350px;
+	background-color: skyblue;
+}
+
+
+
+div:nth-of-type(2) {
+
+	width: 100%;
+	height: 350px;
+	background-color: skyblue;
+
+}
+
+footer {
+	height: 400px;
+	width: 100%;
+	background: gray;
+}
+
+.thridthSect {
+	height: 300px;
+	width: 100%;
+	background: rgb(247, 167, 97);
+}
