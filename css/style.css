@@ -32,6 +32,12 @@ main {
 	margin: 100px 20px;
 }
 
+.sect {
+	height: 505px;
+	width: 100%;
+	background: rgb(247, 167, 97);
+}
+
 div:first-of-type {
 	width: 350px;
 	height: 350px;
